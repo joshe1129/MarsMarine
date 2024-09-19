@@ -1,18 +1,25 @@
-Mars Marine: Supervivencia en Marte
-Mars Marine es un shooter top-down desarrollado en Unreal, donde los jugadores asumen el rol de un soldado de élite varado en Marte, enfrentando hordas de alienígenas arácnidos en un entorno hostil. El objetivo principal es sobrevivir a oleadas cada vez más desafiantes utilizando estrategia, habilidad y manejo de recursos.
+# Mars Marine: Supervivencia en Marte 🚀🪐
 
-Características del Juego
-Acción frenética: Enfréntate a oleadas de alienígenas con mecánicas de combate rápidas y reactivas.
-Entornos alienígenas detallados: Explora escenarios oscuros y claustrofóbicos ambientados en la superficie de Marte.
-Gestión de recursos: Administra tu salud mientras enfrentas enemigos implacables que no te darán tregua.
-Desafíos dinámicos: Las oleadas aumentan en dificultad, introduciendo mas enemigos.
+¡Bienvenido a **Mars Marine**! Un emocionante shooter top-down desarrollado en Unreal, donde te conviertes en un soldado de élite atrapado en Marte. Prepárate para enfrentarte a hordas de alienígenas arácnidos en un entorno hostil y desafiante. ¿Tienes lo necesario para sobrevivir?
 
-Mecánicas de Juego
-Los enemigos se generan dinámicamente en cada oleada, lo que permite partidas impredecibles y variadas.
-Sistema de gestión de recursos para controlar tu salud, aumentando la tensión conforme avanza el juego.
+## 🌟 Características del Juego
 
-Instalación
-Clona este repositorio.
-Abre el proyecto en Unreal.
-Compila y ejecuta para comenzar a jugar.
-o puedes descargar el juego compilado de [enlace](https://joshe1129.itch.io/crimson-horizon)
+- **Acción Frenética**: Desafía tus reflejos con combates rápidos y repletos de adrenalina contra oleadas de alienígenas.
+- **Entornos Alienígenas**: Explora escenarios oscuros y claustrofóbicos en la desolada superficie de Marte.
+- **Gestión de Recursos**: Mantén tu salud bajo control mientras te enfrentas a enemigos implacables.
+- **Desafíos Dinámicos**: Las oleadas se vuelven cada vez más difíciles, introduciendo nuevos y más peligrosos enemigos.
+
+## ⚙️ Mecánicas de Juego
+
+- **Generación Dinámica de Enemigos**: Cada oleada es única, ofreciendo una experiencia de juego impredecible y variada.
+- **Sistema de Gestión de Recursos**: Controla tu salud y recursos para mantener la tensión mientras avanzas en el juego.
+
+## 🚀 Instalación
+
+1. Clona este repositorio.
+2. Abre el proyecto en Unreal Engine.
+3. Compila y ejecuta para comenzar a jugar.
+
+Alternativamente, puedes descargar el juego compilado [aquí](https://joshe1129.itch.io/crimson-horizon).
+
+¡Conviértete en el héroe de Marte y demuestra tu habilidad en **Mars Marine**!
